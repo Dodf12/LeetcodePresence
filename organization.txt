@@ -1,0 +1,10 @@
+leetcode-presence/
+├── go-server/
+│   ├── main.go            # your local server + RPC updater
+│   ├── discord.go         # handles rich-go logic
+│   └── go.mod
+├── chrome-extension/
+│   ├── manifest.json
+│   ├── scraper.js         # runs on leetcode.com
+│   └── popup.html/css/js  # optional: user inputs
+└── README.md
