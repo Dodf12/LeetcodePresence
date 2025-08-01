@@ -1,6 +1,6 @@
 ## LeetCode Discord Rich Presence
 
-![Screenshot](./screenshot.png)
+![Screenshot](https://github.com/Dodf12/LeetcodePresence/blob/main/screenshot.png)
 
 This project displays your current LeetCode problem, difficulty, language, and status as a Discord Rich Presence.
 
