@@ -4,6 +4,9 @@
 
 This project displays your current LeetCode problem, difficulty, language, and status as a Discord Rich Presence.
 
+I used this mini-project to learn about the Go programming language and it's uses.
+Was quite confused initially, but I really appreciate how lightweight and versatile it is.
+
 ### Features
 - Shows problem number, title, and difficulty in Discord
 - Displays language and submission status
